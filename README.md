@@ -24,3 +24,6 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 {Paulo Cortez, University of Minho, Guimarães, Portugal, http://www3.dsi.uminho.pt/pcortez
 A. Cerdeira, F. Almeida, T. Matos and J. Reis, Viticulture Commission of the Vinho Verde Region(CVRVV), Porto, Portugal
 @2009}
+
+## Link to Presentation
+https://www.dropbox.com/s/wwxiyt1ugx2iufb/dashboard%20presentation.mp4?dl=0
